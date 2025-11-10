@@ -1,0 +1,9 @@
+10-11-2025
+alo
+
+https://microsoftlearning.github.io/mslearn-ai-studio/Instructions/02a-AI-foundry-sdk.html
+
+ejercicio 1 de clase 3
+
+Develop generative AI solutions in Azure
+
