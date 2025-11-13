@@ -1,0 +1,27 @@
+13-11-2025
+ALO
+
+   Para copiar repositorios como los de MS LEARN para AI-102 de GITHUB y hacer cambios locales hacer lo siguiente
+   --------------------------------------------------------------------------------------------------------------
+
+1) Identificar el repositorio de interés indicado en los ejercicios de AI-102 ( por ejemplo, cuando mandar a ejecutar GIT CLONE).
+
+2) Hacer un GIT FORK en la página web de GITHUB para poder modificar una copia del repositorio original en mi cuenta y hacer cambios locales
+que se sincronicen a la nube.
+
+3) Crear carpeta local en el windows de mi PC para mi nuevo repositorio, por ejemplo,: 
+"E:\VisualStudioCODE\Projects\Github\Repositories\AI102aloTRAINING_class_8" en unidad E: (NVMNe conectado por USB a PC dell de vadeos).
+
+4)Ejecutar con RIGHT-CLICK (menu de contexto) la opción "ABRIR EN TERMINAL" para abrir ventana de comandos de Powershell.
+
+5) Verificar que POWERSHELL abrió en el nuevo directorio de interés creado para COPIAR REPOSITORIO DE GITHUB para realizar cambios y
+ejercicios del entrenamiento de AI-102.
+
+6) ejecutar "CODE ." para abrir VISUAL STUDIO CODE en el nuevo repositorio vacio.
+
+7) Hacer GIT CLONE en VS CODE del repositorio nuevo (mio) de GITHUB para que sincronice los archivos localmente en el directorio
+creado previamente para poder HACER CAMBIOS LOCALES PRINCIPALMENTE TRABAJANDO CON VS CODE.
+
+8) Ejecutar COMMIT después de hacer cambios para tener "SOURCE CONTROL" con CONTROL DE CAMBIOS y tener el CONTROL DE CAMBIOS REFLEJADO 
+LOCALMENTE EN VS CODE Y REMOTAMENTE EN LA NUBE DE GITHUB.
+

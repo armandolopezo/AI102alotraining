@@ -7,3 +7,21 @@ ejercicio 1 de clase 3
 
 Develop generative AI solutions in Azure
 
+--------------------------------------------------------------------------
+
+Hice cambios locales locales y creé un REPOSITORIO que quisé sincronizar 
+con GITHUB desde VS CODE pero no sabía como hasta que funcionó el siguiente
+comando desde el TERMINAL de VS CODE con el explorador de VS CODE activo en
+la carpeta que quería sincronizar:
+
+  "remote add origin https://github.com/armandolopezo/AI102alotraining.git"
+
+La carpeta LOCAL de Windows 11 de DELL de VADEOS tiene la siguiente ruta:
+
+"E:\VisualStudioCODE\Projects\Github\Repositories\AI102aloTRAINING\"
+
+  En esa ruta hay una carpeta escodida .GIT que se creó cuando se inició el
+repositorio local.
+
+
+
